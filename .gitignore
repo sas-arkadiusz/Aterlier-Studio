@@ -22,3 +22,5 @@
 # macOS #
 *.DS_STORE
 
+# Properties #
+*.properties
